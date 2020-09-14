@@ -48,3 +48,5 @@ D:\practice\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.dll
 D:\practice\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.pdb
 D:\practice\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.genruntimeconfig.cache
 D:\practice\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.csproj.CopyComplete
+D:\practice\TodoList\TodoList\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Todo.razor.g.cs
+D:\practice\TodoList\TodoList\obj\Debug\netcoreapp3.1\Razor\Pages\Todo.razor.g.cs
